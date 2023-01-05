@@ -1,13 +1,13 @@
 # A basic Star Match Game
 
-![alt text](https://github.com/vimala95/star-match-game/blob/master/star-match-game.PNG?raw=true)
+![alt text](https://github.com/vimala-siravi/star-match-game/blob/master/star-match-game.PNG?raw=true)
 
 ## Getting Started
 
 Clone the repo
 
 ```
-https://github.com/vimala95/star-match-game.git
+https://github.com/vimala-siravi/star-match-game.git
 ```
 
 Install the dependencies
